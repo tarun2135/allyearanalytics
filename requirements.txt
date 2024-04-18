@@ -1,4 +1,2 @@
-openpyxl
-pyplot
-plotly
-numpy
+numpy 
+matplotlib

@@ -45,7 +45,7 @@ ax.legend()
 st.pyplot(fig)
 
 # Read the CSV file into a DataFrame
-csv_file = r"C:\Users\lenovo\Desktop\ALLData.csv"
+csv_file = r"ALLData.csv"
 df = pd.read_csv(csv_file)
 
 # Dropdown filter for branch
